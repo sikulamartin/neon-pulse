@@ -11,7 +11,7 @@ const merchItems: MerchItem[] = [
   },
   {
     id: '2',
-    name: 'Neon Cap 2025',
+    name: 'Neon Cap 2024',
     price: 650,
     image: 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=2070&auto=format&fit=crop'
   },
@@ -19,7 +19,7 @@ const merchItems: MerchItem[] = [
     id: '3',
     name: 'Cyber Tote Bag',
     price: 450,
-    image: '../img/056013da-ff2b-4969-9dc4-86c1a9b143fb.png'
+    image: 'https://png.pngtree.com/png-clipart/20231101/original/pngtree-cyber-monday-with-neon-shopping-bag-png-image_13468020.png'
   }
 ];
 

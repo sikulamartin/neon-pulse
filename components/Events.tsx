@@ -6,15 +6,15 @@ const events: Event[] = [
   {
     id: '1',
     title: 'CYBER NIGHT VOL. 4',
-    date: '24.12.2025',
+    date: '24.12.2024',
     location: 'Underground Bunker, Praha',
     description: 'Noc plná čistého techna a industriálních beatů.',
-    image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/93/32/9f/main-club.jpg?w=900&h=500&s=1'
+    image: 'https://d39lxsrz40jt15.cloudfront.net/downloads/EDG2012/o_1i0n6n9soe717te1or11gqg1u7ao.jpg'
   },
   {
     id: '2',
     title: 'NEON DREAMS',
-    date: '31.12.2025',
+    date: '31.12.2024',
     location: 'Skyline Rooftop, Praha',
     description: 'Oslav příchod nového roku v rytmu synthwave.',
     image: 'https://images.unsplash.com/photo-1566737236500-c8ac43014a67?q=80&w=2070&auto=format&fit=crop'

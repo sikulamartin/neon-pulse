@@ -51,7 +51,7 @@ const Contact: React.FC = () => {
                     <div className="text-neonPink font-mono text-xl">01</div>
                     <div>
                         <p className="text-white font-bold">DATUM</p>
-                        <p className="text-gray-400">24. Prosince, 2025</p>
+                        <p className="text-gray-400">24. Prosince, 2024</p>
                     </div>
                 </div>
                 <div className="flex items-start gap-4">

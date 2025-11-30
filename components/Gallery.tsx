@@ -4,10 +4,10 @@ import { GalleryItem } from '../types';
 
 const galleryItems: GalleryItem[] = [
   { id: '1', src: 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=2070', alt: 'Party Crowd', category: 'VIBES' },
-  { id: '2', src: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Wikipedia_space_ibiza%2803%29.jpg', alt: 'DJ Set', category: 'UMĚLCI' },
+  { id: '2', src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQkAMy2o704KYmX7A0SbQAVoT7SF7DR3ZeA&s', alt: 'DJ Set', category: 'UMĚLCI' },
   { id: '3', src: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2070', alt: 'Lights', category: 'ATMOSFÉRA' },
-  { id: '4', src: 'https://images.ctfassets.net/txhaodyqr481/7MONu5RGLdNrm324PQTgWR/4987ebcdef330712cf7d53564cc3e389/antoine-j-r3XvSBEQQLo-unsplash.jpg?q=85', alt: 'Neon Sign', category: 'DETAILY' },
-  { id: '5', src: 'https://media.timeout.com/images/106021275/750/562/image.jpg', alt: 'Concert', category: 'HLAVNÍ STAGE' },
+  { id: '4', src: 'https://m.media-amazon.com/images/I/8134wUTy9LL.jpg', alt: 'Neon Sign', category: 'DETAILY' },
+  { id: '5', src: 'https://images.stockcake.com/public/2/4/2/24216587-34a9-4a17-946a-ff9427afe708_large/neon-concert-future-stockcake.jpg', alt: 'Concert', category: 'HLAVNÍ STAGE' },
   { id: '6', src: 'https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?q=80&w=2070', alt: 'Crowd Hands', category: 'LIDÉ' },
 ];
 
@@ -18,7 +18,7 @@ const Gallery: React.FC = () => {
     <section id="gallery" className="py-24 bg-[#0a0a0a]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-end mb-12">
-            <div style={{ margin: "0 auto" }}>
+            <div>
                 <h2 className="font-display text-4xl md:text-5xl font-bold text-white tracking-tight">
                     MOMENTY
                 </h2>

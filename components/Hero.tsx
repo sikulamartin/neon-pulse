@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
         <div className="mb-4 inline-block">
             <span className="py-1 px-3 border border-neonGreen rounded-full text-neonGreen text-xs font-mono tracking-widest uppercase bg-neonGreen/10 backdrop-blur-sm">
-                Další akce: 24.12.2025
+                Další akce: 24.12.2024
             </span>
         </div>
         <h1 className="font-display text-6xl md:text-8xl lg:text-9xl font-black text-white tracking-tighter mb-6 relative">
@@ -31,10 +31,10 @@ const Hero: React.FC = () => {
             ZAŽIJ
           </span>{' '}
           <span className="relative inline-block text-transparent bg-clip-text bg-gradient-to-r from-neonGreen to-neonPink animate-float">
-            TEP
+            TEN
           </span>{' '}
           <span className="relative inline-block hover:text-neonPink transition-colors duration-500 cursor-default">
-            ŽIVOTA
+            TEP
           </span>
         </h1>
         <p className="font-sans text-gray-300 text-lg md:text-2xl mb-10 max-w-2xl mx-auto font-light leading-relaxed">
